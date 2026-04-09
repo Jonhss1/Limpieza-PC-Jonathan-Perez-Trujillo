@@ -39,7 +39,7 @@ Ejecuta el script:
 1-. Descarga el .exe adjunto en el repositorio.  
 2-.Ejecuta el .exe 
  
- El programa solicitará permisos de administrador automáticamente. Usa la interfaz gráfica:  
+ El programa solicitará permisos de administrador automáticamente.  Usa la interfaz gráfica  
  
 💀 LIMPIEZA TOTAL	= Limpieza completa  
 🧹 Carpetas	= Limpia documentos y descargas  
